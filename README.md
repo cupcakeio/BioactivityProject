@@ -26,3 +26,5 @@ Requirements
 - sklearn
 - xgboost
 - lazyregressor
+
+This project was inspired by Data Professor - https://www.youtube.com/watch?v=plVLRashaA8&list=PLtqF5YXg7GLlQJUv9XJ3RWdd5VYGwBHrP&index=1
